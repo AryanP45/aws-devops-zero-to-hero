@@ -31,7 +31,7 @@ This day emphasizes security best practices in AWS. You'll learn how to implemen
 ## Day 6: AWS Route 53
 
 **Project:** Configure and manage a domain name using Route 53. You'll register a domain, set up DNS records, and explore advanced features such as health checks, routing policies, and DNS-based failover.
-
+ 
 ## Day 7: Secure VPC Setup with EC2 Instances
 
 **Project:**
